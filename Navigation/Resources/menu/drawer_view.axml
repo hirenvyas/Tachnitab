@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/gadgets"
+            android:title="Gadgets" />
+        <item
+            android:id="@+id/internet"
+            android:title="Internet" />
+        <item
+            android:id="@+id/iotsmart"
+            android:title="IoT and Smart" />
+        <item
+            android:id="@+id/mobile"
+            android:title="Mobile" />
+        <item
+            android:id="@+id/buzz"
+            android:title="Techni Buzz" />
+        <item
+            android:id="@+id/softwareapps"
+            android:title="Software and Apps" />
+        <item
+            android:id="@+id/startup"
+            android:title="Startup Piches" />
+        <item
+            android:id="@+id/startupbuzz"
+            android:title="Startup Buzz" />
+        <item
+            android:id="@+id/startupblog"
+            android:title="Startup Blogs" />
+        <item
+            android:id="@+id/services"
+            android:title="Technilab Services" />
+    </group>
+</menu>
